@@ -1,4 +1,4 @@
-#Video Store  
+# Video Store  
 Write a system that can build a statement, when given rentals.  
 
 When there are 3 regular movie rentals for 1, 2 and 3 days respectively, the statement looks like:
