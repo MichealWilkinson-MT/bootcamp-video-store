@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-video-store",
+  "version": "1.0.0",
+  "description": "Write a system that can build a statement, when given rentals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichealWilkinson-MT/bootcamp-video-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichealWilkinson-MT/bootcamp-video-store/issues"
+  },
+  "homepage": "https://github.com/MichealWilkinson-MT/bootcamp-video-store#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
